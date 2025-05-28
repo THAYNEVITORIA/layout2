@@ -7,10 +7,14 @@
 }
 
 body {
-    height: 100%; background-color: #56477e; 
-    margin: 0; 
-    padding: 0; 
+    background: url("img/roxinho.jpeg");
     font-family: 'Chakra Petch', sans-serif;
+    background-size: cover;
+    color: #222;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
     color: var(--cor-principal);
 }
 
